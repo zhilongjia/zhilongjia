@@ -1,6 +1,6 @@
 - Hi, I’m Zhilong Jia @zhilongjia
 - I am an Associate Professor at Chinese PLA General Hospital after obtaining a doctor of philosophy degree in Biomedical Engineering. 
-- My research interests are drug repositioning and bioinformatics. 
+- My research interests are drug repositioning and omics. 
 - I developed drug repositioning methods, such as cogena, and applied them into various diseases, such as cardiovascular disease, periodontal disease, mountain sickness and COVID-19.
 
 <!---
